@@ -1,0 +1,6 @@
+**Circular Linked List**: When the end of the linked list points to another node of the linked list creating a circular list.
+To check if a linked list is circular or not we have two different methods.
+**First method**: If *we have a tail in our linked list* we can simply check if the tail.next != null. If this statement is true we know that the linked list is circular, else the linked list is not. This solution would be O(1).
+**Second method**: If *we don't have a tail*, we need two pointers. One of the pointers is going to iterate through the linked list until it reaches the final node (most likely would keep track by knowing the linked list size), while the second linked list node would be used to compare the value of the node that it is in with the next node of the first pointer. This method would be O(n^2).
+*The second method would only be used for when trying to find out what node the last node is pointing to for the circular linked list. We can simply do the loop while keeping track of a index count until we hit the size of the linked list while the current node next is not null. Doing this tells us the linked list is circular, but not anymore info of what node it is pointing to.
+#data-structure #algo #linked-list 
