@@ -14,6 +14,6 @@ sub f, t0, t1
 ```
 *# is a comment in MIPS assembly*
 
-Assembly is a bare bones programming language that provides the closes level to machine code that is human readable allowing for more speed in our code, but less abstraction for computational task.
+Assembly is a bare bones programming language that provides the closest level to machine code that is human readable, allowing for more speed in our code, but less abstraction for computational task.
 
 #computerorganization #assembly #MIPS 
