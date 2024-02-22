@@ -1,5 +1,6 @@
+
 **Def:** Dependency Injection allows for another way of creating objects in java, and is the preferred method when dealing with [[Spring]] projects.
-Typical way it is done: Doctor doc = new Doctor();
+*Typical way it is done:* Doctor doc = new Doctor();
 With Dependency injection we would create the objects in a java class, and when the java project is run, the spring class would first go to the class where we created the objects that we are going to use in our project and holds them in a container.
 While the program is running anytime a class needs a specific container we can simply call on the container and ask for the specific object that we need (The objects are called beans in spring).
 ### Benefits
