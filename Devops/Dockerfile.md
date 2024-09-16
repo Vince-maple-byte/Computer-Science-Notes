@@ -20,7 +20,7 @@ CMD and ENTRYPOINT both provide a default command, but they have a main differen
 
 This main difference allows CMP to be a default command that can be changed while ENTRYPOINT is fixed.
 
-For a more in depth look at these instructions in dockerfile here is the documentation:
+For a more in depth look at these instructions in Docker file here is the documentation:
 https://docs.docker.com/reference/dockerfile/
 
 #backend #docker #devops 

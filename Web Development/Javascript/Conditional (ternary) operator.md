@@ -1,4 +1,4 @@
-#javascript #javascript-fundamentals
+#javascript #javascript-fundamentals #programming_languages 
 
 The conditional (ternary) operator allows for a short handed version of an if else statement.
 

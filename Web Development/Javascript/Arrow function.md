@@ -1,4 +1,4 @@
-#javascript #javascript-fundamentals 
+#javascript #javascript-fundamentals #programming_languages 
 
 The arrow function in javascript provides for a shorten form of creating functions. This is done by using => to declare the function.
 
