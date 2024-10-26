@@ -1,4 +1,4 @@
-#javascript #javascript-fundamentals 
+#javascript #javascript-fundamentals #programming_languages 
 
 They are a couple different ways to create arrays in javascript.
 
