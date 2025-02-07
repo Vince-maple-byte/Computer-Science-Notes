@@ -18,7 +18,7 @@ CMD and ENTRYPOINT both provide a default command, but they have a main differen
 - *CMD:* flexible, can be overridden
 - *ENTRYPOINT:* Fixed, cannot be overridden
 
-This main difference allows CMP to be a default command that can be changed while ENTRYPOINT is fixed.
+This main difference allows CMD to be a default command that can be changed while ENTRYPOINT is fixed.
 
 For a more in depth look at these instructions in Docker file here is the documentation:
 https://docs.docker.com/reference/dockerfile/
