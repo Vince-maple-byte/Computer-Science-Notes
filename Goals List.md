@@ -5,7 +5,6 @@ Some goals I am setting for either studying school related stuff or studying for
 - [ ] Read Computer Network - A Top Down Approach
 - [x] Watch Spring Boot Complete Tutorial - Master Class
 ### Book / Video Progress
-Spring Boot Complete Tutorial - Master Class : 2:24:06
 Computer Network - A Top Down Approach: page 62 (At 1.2.2)
 Spring Framework : https://docs.spring.io/spring-framework/reference/core/beans/factory-scopes.html
 
