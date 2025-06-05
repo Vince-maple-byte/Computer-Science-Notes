@@ -1,0 +1,6 @@
+I'm going to make a file uploader site that allows for users to be able to upload a file and then download it from the server.
+Ok so the final plan of my file uploading site would be for the user to upload their file. I would convert the file into file streaming. When the user wants to download the file, I just send the small packets, and the user can download that.
+
+**P2P Audiobook website:** Make an audiobook website where people can download audiobook files in a web friendly peer 2 peer client. I want to add a option where people can convert the file they are downloading to another audio file. I also want to make this in a microservice architecture where we have server logs, distributed database, Kubernetes, the whole thing. Also am going to use terraform, and a VPS for website hosting.
+
+**Private Game Clip Sharing:** Have a platform where people can upload and share their video clips from their computer. Make a ftp web friendly client for people to use, and have it so that people can easily upload their files. Have people sign in through discord, and when they want to send a clip to someone they just need to add the people that can view the clip from their discord accounts. We would then check the discord account of anyone that logs in and verify if they are in the list of people that can view the clip, and share it to them.

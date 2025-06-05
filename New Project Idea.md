@@ -1,2 +1,0 @@
-I'm going to make a file uploader site that allows for users to be able to upload a file and then download it from the server.
-Ok so the final plan of my file uploading site would be for the user to upload their file. I would convert the file into file streaming. When the user wants to download the file, I just send the small packets, and the user can download that.
