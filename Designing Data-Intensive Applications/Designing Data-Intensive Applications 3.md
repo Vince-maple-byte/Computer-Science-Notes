@@ -8,6 +8,8 @@
 ## 🔑 Key Concepts
 
 - [[Log Structured Database]]
+- [[Hash Indexing]]
+- [[Segment Files]]
 - **[[SSTables]]** 
 - **[[LSM Trees]]** 
 - [[B Trees]]

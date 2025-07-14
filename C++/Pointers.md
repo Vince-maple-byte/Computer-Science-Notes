@@ -14,4 +14,4 @@ int b = *pA;
 ```
 
 
-#binary #assembly #Cpp #memory
+#binary #assembly #Cpp #computer-memory 
